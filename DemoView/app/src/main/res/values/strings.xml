@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo View</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_text_view_demo">TextViewDemo</string>
+    <string name="title_activity_edit">EditActivit</string>
+    <string name="title_activity_image_view">ImageView</string>
+    <string name="title_activity_alto_complete_demo">AltoCompleteDemo</string>
+    <string name="title_activity_image_button">ImageButtonActivit</string>
+    <string name="title_activity_check_box_toggle_butoon">CheckBoxToggleButoonActivit</string>
+    <string name="title_activity_progress_dialog_demo">ProgressDialogDemoActivit</string>
+    <string name="title_activity_coment_alert_dialog">ComentAlertDialog</string>
+    <string name="title_activity_scroll_view_demo">ScrollViewDemoActivit</string>
+</resources>

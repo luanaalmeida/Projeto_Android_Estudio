@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="action_settings">Dicas de Saúde</string>
+
+    <string name="Calcule_seu_IMC">Calcule seu IMC</string>
+    <string name="Peso">Digite o valor do seu Peso</string>
+    <string name="Altura">Digite o valor da sua Altura</string>
+    <string name="Botao">Calcule</string>
+    <string name="Calcule">o valor do seu IMC é: </string>
+    <string name="Abaixo">Você está baixo do peso: </string>
+    <string name="Ideal">Parabéns, Seu IMC está ideal: </string>
+    <string name="Levemente">voce está levemente aciama do peso </string>
+    <string name="GrauI">voce está com obesidade grau I </string>
+    <string name="GrauII">voce está com obesidade grau II </string>
+    <string name="GrauIII">voce está com obesidade grau III </string>
+</resources>

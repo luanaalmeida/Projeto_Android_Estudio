@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="#f4dbfc">
+
+    <TextView android:text="@string/primeiro_numero"
+        style="@style/StyteTextView"
+      />
+
+    <EditText
+        android:id="@+id/edtPrimeiroNumero"
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_botton"/>
+
+    <TextView android:text="@string/segundo_numero"
+        style="@style/StyteTextView"
+        />
+
+    <EditText
+        android:id="@+id/edtSegundoNumero"
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_botton"/>
+
+    <Button
+        android:text="@string/botao_soma"
+        android:id="@+id/bntButtonSomar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_botton"/>
+
+    <Button
+        android:text="@string/botao_sub"
+        android:id="@+id/bntButtonSub"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_botton"/>
+
+    <TextView
+        android:id="@+id/TextResultado"
+        android:text=""
+        style="@style/StyteTextView"/>
+
+</LinearLayout>

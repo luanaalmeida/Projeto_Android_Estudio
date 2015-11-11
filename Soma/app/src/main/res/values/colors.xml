@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8f21d4</color>
+    <color name="colorPrimaryDark">#8f21d4</color>
+    <color name="colorAccent">#8f21d4</color>
+
+    <!-- Cores do App-->
+    <color name="text_view">#8f21d4</color>
+</resources>

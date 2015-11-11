@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SUM</string>
+    <string name="action_settings">Configuração</string>
+
+    <!--intercionalização dos Apps -->
+    <!--Strings da App -->
+    <string name="primeiro_numero">First Number</string>
+    <string name="segundo_numero">Secound Number</string>
+    <string name="botao_soma">Sum</string>
+    <string name="total">Operation resoult is: </string>
+
+    <string name="botao_sub">Subtract</string>
+    <string name="total_sub">Operation resoult is:</string>
+
+</resources>

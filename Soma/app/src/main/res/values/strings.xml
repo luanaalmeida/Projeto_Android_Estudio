@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Soma</string>
+    <string name="action_settings">Configuração</string>
+
+    <!--intercionalização dos Apps -->
+    <!--Strings da App -->
+    <string name="primeiro_numero">Primeiro Numero</string>
+    <string name="segundo_numero">Segundo Numero</string>
+    <string name="botao_soma">Somar</string>
+    <string name="total">A soma dos números é: </string>
+
+    <string name="botao_sub">Subtrair</string>
+    <string name="total_sub">A subtração dos números é: </string>
+
+</resources>

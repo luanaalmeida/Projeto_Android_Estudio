@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI Body Mass Index</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Calcule_seu_IMC">Calculate your IMC</string>
+    <string name="Peso">Enter the amount of your weight</string>
+    <string name="Altura">Enter the amount of your height</string>
+    <string name="Botao">Calculate</string>
+    <string name="Calcule">The value of your BMI is: </string>
+    <string name="Abaixo">You sre underweight. </string>
+    <string name="Ideal">Congratulations, your BMI id ideal. </string>
+    <string name="Levemente">You are slightly overweight </string>
+    <string name="GrauI">Your are odese type one</string>
+    <string name="GrauII">Your are odese type two</string>
+    <string name="GrauIII">Your are thee type obesity</string>
+</resources>

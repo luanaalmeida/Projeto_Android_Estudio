@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Carros</string>
+    <string name="carro">Carro</string>
+    <string name="fabricante">Fabricante</string>
+    <string name="button">Salvar</string>
+    <string name="sucesso">Cadastro feito com sucesso</string>
+    <string name="error">Cadastro nao realizado</string>
+    <string name="botao">Lista</string>
+    <string name="listagem_carros">Listagem de Carros</string>
+    <string name="nome_carro">nome do carro</string>
+    <string name="marca_carro">narca do carro</string>
+    <string name="erro_registrador">Erro ao registrar</string>
+
+</resources>
