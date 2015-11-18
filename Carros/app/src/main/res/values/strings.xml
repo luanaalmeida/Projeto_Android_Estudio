@@ -10,5 +10,6 @@
     <string name="nome_carro">Nome do carro</string>
     <string name="marca_carro">Fabricante</string>
     <string name="erro_registrador">Erro ao registrar</string>
+    <string name="cadastrar_carro">cadastro de carros</string>
 
 </resources>
