@@ -10,9 +10,6 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Aluno on 06/11/2015.
- */
 //extends SQLiteOpenHelper banco de dados
 public class carrosDB extends SQLiteOpenHelper{
 
@@ -42,7 +39,7 @@ public class carrosDB extends SQLiteOpenHelper{
     public void onUpgrade (SQLiteDatabase db, int oldVersion, int newVersion){
 
     }
-    //faz o carro existir no banco de dados
+   /* //faz o carro existir no banco de dados
     public long save(Carro carro) {
         // long id = carro.getId(); (pega / reculpera o id do objeto)
         long id = carro.getId();
@@ -74,7 +71,7 @@ public class carrosDB extends SQLiteOpenHelper{
     }finally {
             db.close();
         }
-    }
+    }*/
     //deletar um carro
     public int delete (Carro carro){
         SQLiteDatabase db = getWritableDatabase();
